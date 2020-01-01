@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DesignPattern
+namespace DesignPatternn
 {
     public interface Item
     {
